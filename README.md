@@ -1,3 +1,5 @@
+Clone https://github.com/Princedayo02/HMCTS-coding-task.git
+
 This is DTS Developer Technical Test
 This project is a mono repo comprising the frontend and backend code in the same project
 
